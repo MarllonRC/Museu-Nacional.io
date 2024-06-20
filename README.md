@@ -1,7 +1,6 @@
-Montei esta webpage para treinar meus conhecimentos atuais.
+Explore esta página criada para aprimorar meus conhecimentos atuais em design web.
 
-Foi inteiramente feito com HTML e CSS.
+Desenvolvido exclusivamente com HTML e CSS, o site é um projeto dedicado ao Museu Nacional da UFRJ. Optei pela simplicidade sem a necessidade de linguagens de programação adicionais, resultando em uma experiência visualmente atraente.
 
-A ideia era montar um site para o Museu Nacional UFRJ sendo o mais simples possivel sem utilização de linguagens de programação ou seja, o site nao tem um back-and e so para ser bonito.
+Conheça mais sobre este projeto acessando o site através do link: [Museu Nacional UFRJ](https://marllonrc.github.io/Museu-Nacional.io/). Espero que aprecie!.
 
-Pode visitar ele pelo link https://marllonrc.github.io/Museu-Nacional.io/
